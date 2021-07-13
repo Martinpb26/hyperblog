@@ -5,3 +5,5 @@ Estudiando Data SCiencie para lograr sus sueños con todas las fuerzas.
 Hola mundo desde GIT-GITHUB
 
 cada dia es mas dificil pero lo lograre.
+
+Hoy hablaremos de su vida.
